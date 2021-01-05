@@ -8,7 +8,7 @@ export default class Login extends Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text style={styles.welcome}>Login to golden slumbr</Text>
+        <Text style={styles.header}>Login to golden slumbr</Text>
         <TextInput style={styles.input} placeholder={'username'}/>
         <TextInput style={styles.input} placeholder={'password'}/>
         <Button
@@ -27,7 +27,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     backgroundColor: '#ffffff',
   },
-  welcome: {
+  header: {
     fontSize: 18,
     textAlign: 'center',
     margin: 30,
