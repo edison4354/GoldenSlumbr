@@ -19,6 +19,7 @@ export default class Sleep extends Component {
         <Button
           style={styles.button}
           text='Later than I do now'
+          margin={30}
         />           
       </View>
     )
@@ -29,16 +30,15 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     justifyContent: 'center',
-    alignItems: 'center',
+    alignItems: 'flex-start',
     backgroundColor: '#ffffff',
   },
   header: {
     fontSize: 18,
-    textAlign: 'center',
     margin: 30,
   },
   button: {
     fontSize: 30,
-    margin: 30,
+    margin: 50,
   }
 })
