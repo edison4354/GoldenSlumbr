@@ -1,0 +1,3079 @@
+[{
+  "_id": {
+    "$oid": "5f750bf59c8ecd3a7fdb5735"
+  },
+  "timerEnabled": 0,
+  "colorTemperature": 0,
+  "brightness": 100,
+  "onOff": 1,
+  "time": 30,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "createdAt": {
+    "$date": "2020-09-30T22:51:33.406Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-30T22:51:33.406Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f750c479c8ecd3a7fdb5736"
+  },
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "brightness": 52,
+  "onOff": 0,
+  "colorTemperature": 0,
+  "time": 30,
+  "timerEnabled": 0,
+  "createdAt": {
+    "$date": "2020-09-30T22:52:55.314Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-30T22:52:55.314Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f750c499c8ecd3a7fdb5737"
+  },
+  "timerEnabled": 0,
+  "colorTemperature": 0,
+  "brightness": 69,
+  "onOff": 0,
+  "time": 30,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "createdAt": {
+    "$date": "2020-09-30T22:52:57.315Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-30T22:52:57.315Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f750c519c8ecd3a7fdb5738"
+  },
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "brightness": 69,
+  "time": 30,
+  "onOff": 1,
+  "colorTemperature": 0,
+  "timerEnabled": 0,
+  "createdAt": {
+    "$date": "2020-09-30T22:53:05.763Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-30T22:53:05.763Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f750c709c8ecd3a7fdb5739"
+  },
+  "brightness": 49,
+  "time": 30,
+  "colorTemperature": 0,
+  "timerEnabled": 0,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "onOff": 1,
+  "createdAt": {
+    "$date": "2020-09-30T22:53:36.173Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-30T22:53:36.173Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f750c719c8ecd3a7fdb573a"
+  },
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "brightness": 49,
+  "time": 30,
+  "onOff": 1,
+  "colorTemperature": 52,
+  "timerEnabled": 0,
+  "createdAt": {
+    "$date": "2020-09-30T22:53:37.918Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-30T22:53:37.918Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f750c729c8ecd3a7fdb573b"
+  },
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "time": 30,
+  "colorTemperature": 0,
+  "onOff": 1,
+  "brightness": 49,
+  "timerEnabled": 0,
+  "createdAt": {
+    "$date": "2020-09-30T22:53:38.927Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-30T22:53:38.927Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f750c889c8ecd3a7fdb573c"
+  },
+  "time": 30,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "timerEnabled": 0,
+  "brightness": 99,
+  "onOff": 1,
+  "colorTemperature": 0,
+  "createdAt": {
+    "$date": "2020-09-30T22:54:00.250Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-30T22:54:00.250Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f750cd99c8ecd3a7fdb573d"
+  },
+  "brightness": 99,
+  "time": 0,
+  "colorTemperature": 0,
+  "timerEnabled": 0,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "onOff": 0,
+  "createdAt": {
+    "$date": "2020-09-30T22:55:21.958Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-30T22:55:21.958Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f750e2f9c8ecd3a7fdb573e"
+  },
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "onOff": 1,
+  "brightness": 99,
+  "timerEnabled": 0,
+  "colorTemperature": 0,
+  "time": 0,
+  "createdAt": {
+    "$date": "2020-09-30T23:01:03.254Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-30T23:01:03.254Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f750e309c8ecd3a7fdb573f"
+  },
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "onOff": 0,
+  "brightness": 99,
+  "time": 0,
+  "colorTemperature": 0,
+  "timerEnabled": 0,
+  "createdAt": {
+    "$date": "2020-09-30T23:01:04.064Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-30T23:01:04.064Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f750e309c8ecd3a7fdb5740"
+  },
+  "time": 0,
+  "onOff": 1,
+  "timerEnabled": 0,
+  "colorTemperature": 0,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "brightness": 99,
+  "createdAt": {
+    "$date": "2020-09-30T23:01:04.679Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-30T23:01:04.679Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f750e319c8ecd3a7fdb5741"
+  },
+  "onOff": 1,
+  "colorTemperature": 0,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "timerEnabled": 1,
+  "brightness": 99,
+  "time": 30,
+  "createdAt": {
+    "$date": "2020-09-30T23:01:05.157Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-30T23:01:05.157Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f750fe69c8ecd3a7fdb5743"
+  },
+  "brightness": 99,
+  "timerEnabled": 0,
+  "time": 0,
+  "onOff": 0,
+  "colorTemperature": 0,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "createdAt": {
+    "$date": "2020-09-30T23:08:22.037Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-30T23:08:22.037Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f750fea9c8ecd3a7fdb5744"
+  },
+  "time": 0,
+  "timerEnabled": 0,
+  "colorTemperature": 0,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "onOff": 0,
+  "brightness": 99,
+  "createdAt": {
+    "$date": "2020-09-30T23:08:26.802Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-30T23:08:26.802Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f7510349c8ecd3a7fdb5745"
+  },
+  "colorTemperature": 0,
+  "time": 30,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "onOff": 1,
+  "brightness": 100,
+  "timerEnabled": 0,
+  "createdAt": {
+    "$date": "2020-09-30T23:09:40.074Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-30T23:09:40.074Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f7510359c8ecd3a7fdb5746"
+  },
+  "brightness": 100,
+  "time": 0,
+  "timerEnabled": 0,
+  "colorTemperature": 0,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "onOff": 0,
+  "createdAt": {
+    "$date": "2020-09-30T23:09:41.238Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-30T23:09:41.238Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f7510809c8ecd3a7fdb5747"
+  },
+  "onOff": 0,
+  "brightness": 100,
+  "timerEnabled": 0,
+  "colorTemperature": 0,
+  "time": 0,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "createdAt": {
+    "$date": "2020-09-30T23:10:56.360Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-30T23:10:56.360Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f75109a9c8ecd3a7fdb5748"
+  },
+  "time": 0,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "brightness": 100,
+  "colorTemperature": 0,
+  "timerEnabled": 0,
+  "onOff": 1,
+  "createdAt": {
+    "$date": "2020-09-30T23:11:22.263Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-30T23:11:22.263Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f7510b59c8ecd3a7fdb574a"
+  },
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "brightness": 100,
+  "timerEnabled": 0,
+  "time": 0,
+  "onOff": 0,
+  "colorTemperature": 0,
+  "createdAt": {
+    "$date": "2020-09-30T23:11:49.805Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-30T23:11:49.805Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f7651fc9c8ecd3a7fdb575c"
+  },
+  "timerEnabled": 0,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "brightness": 100,
+  "onOff": 1,
+  "colorTemperature": 0,
+  "time": 30,
+  "createdAt": {
+    "$date": "2020-10-01T22:02:36.443Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-01T22:02:36.443Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f7651fc9c8ecd3a7fdb575d"
+  },
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "timerEnabled": 0,
+  "time": 0,
+  "onOff": 0,
+  "colorTemperature": 0,
+  "brightness": 100,
+  "createdAt": {
+    "$date": "2020-10-01T22:02:36.906Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-01T22:02:36.906Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f7653e89c8ecd3a7fdb5763"
+  },
+  "time": 30,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "onOff": 1,
+  "colorTemperature": 0,
+  "brightness": 100,
+  "timerEnabled": 0,
+  "createdAt": {
+    "$date": "2020-10-01T22:10:48.673Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-01T22:10:48.673Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f7653e99c8ecd3a7fdb5764"
+  },
+  "onOff": 0,
+  "brightness": 100,
+  "timerEnabled": 0,
+  "time": 0,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "colorTemperature": 0,
+  "createdAt": {
+    "$date": "2020-10-01T22:10:49.204Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-01T22:10:49.204Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f76553f9c8ecd3a7fdb576d"
+  },
+  "onOff": 1,
+  "colorTemperature": 0,
+  "time": 30,
+  "timerEnabled": 0,
+  "brightness": 100,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "createdAt": {
+    "$date": "2020-10-01T22:16:31.303Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-01T22:16:31.303Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f76553f9c8ecd3a7fdb576e"
+  },
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "onOff": 0,
+  "timerEnabled": 0,
+  "colorTemperature": 0,
+  "brightness": 100,
+  "time": 0,
+  "createdAt": {
+    "$date": "2020-10-01T22:16:31.792Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-01T22:16:31.792Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f7658379c8ecd3a7fdb576f"
+  },
+  "timerEnabled": 0,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "time": 30,
+  "brightness": 100,
+  "colorTemperature": 0,
+  "onOff": 1,
+  "createdAt": {
+    "$date": "2020-10-01T22:29:11.111Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-01T22:29:11.111Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f7658379c8ecd3a7fdb5770"
+  },
+  "onOff": 0,
+  "colorTemperature": 0,
+  "brightness": 100,
+  "timerEnabled": 0,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "time": 0,
+  "createdAt": {
+    "$date": "2020-10-01T22:29:11.607Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-01T22:29:11.607Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f7658959c8ecd3a7fdb5771"
+  },
+  "onOff": 1,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "timerEnabled": 0,
+  "brightness": 100,
+  "time": 30,
+  "colorTemperature": 0,
+  "createdAt": {
+    "$date": "2020-10-01T22:30:45.116Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-01T22:30:45.116Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f7658959c8ecd3a7fdb5772"
+  },
+  "colorTemperature": 0,
+  "onOff": 0,
+  "brightness": 100,
+  "time": 0,
+  "timerEnabled": 0,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "createdAt": {
+    "$date": "2020-10-01T22:30:45.509Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-01T22:30:45.509Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f765b5b9c8ecd3a7fdb5773"
+  },
+  "timerEnabled": 0,
+  "colorTemperature": 0,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "time": 30,
+  "brightness": 100,
+  "onOff": 1,
+  "createdAt": {
+    "$date": "2020-10-01T22:42:35.975Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-01T22:42:35.975Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f765b5c9c8ecd3a7fdb5774"
+  },
+  "onOff": 0,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "timerEnabled": 0,
+  "brightness": 100,
+  "time": 0,
+  "colorTemperature": 0,
+  "createdAt": {
+    "$date": "2020-10-01T22:42:36.244Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-01T22:42:36.244Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f765c619c8ecd3a7fdb5775"
+  },
+  "timerEnabled": 0,
+  "onOff": 1,
+  "colorTemperature": 0,
+  "time": 30,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "brightness": 100,
+  "createdAt": {
+    "$date": "2020-10-01T22:46:57.920Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-01T22:46:57.920Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f765c629c8ecd3a7fdb5776"
+  },
+  "time": 0,
+  "brightness": 100,
+  "onOff": 0,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "timerEnabled": 0,
+  "colorTemperature": 0,
+  "createdAt": {
+    "$date": "2020-10-01T22:46:58.323Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-01T22:46:58.323Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f765cba9c8ecd3a7fdb5777"
+  },
+  "onOff": 1,
+  "timerEnabled": 0,
+  "colorTemperature": 0,
+  "brightness": 100,
+  "time": 30,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "createdAt": {
+    "$date": "2020-10-01T22:48:26.900Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-01T22:48:26.900Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f765cbb9c8ecd3a7fdb5778"
+  },
+  "onOff": 0,
+  "colorTemperature": 0,
+  "brightness": 100,
+  "timerEnabled": 0,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "time": 0,
+  "createdAt": {
+    "$date": "2020-10-01T22:48:27.238Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-01T22:48:27.238Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f765d6e9c8ecd3a7fdb5779"
+  },
+  "timerEnabled": 0,
+  "time": 30,
+  "brightness": 100,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "onOff": 1,
+  "colorTemperature": 0,
+  "createdAt": {
+    "$date": "2020-10-01T22:51:26.101Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-01T22:51:26.101Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f765d6e9c8ecd3a7fdb577a"
+  },
+  "timerEnabled": 0,
+  "time": 0,
+  "brightness": 100,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "onOff": 0,
+  "colorTemperature": 0,
+  "createdAt": {
+    "$date": "2020-10-01T22:51:26.416Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-01T22:51:26.416Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f765dc59c8ecd3a7fdb577b"
+  },
+  "timerEnabled": 0,
+  "colorTemperature": 0,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "brightness": 100,
+  "onOff": 1,
+  "time": 30,
+  "createdAt": {
+    "$date": "2020-10-01T22:52:53.754Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-01T22:52:53.754Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f765dc69c8ecd3a7fdb577c"
+  },
+  "timerEnabled": 0,
+  "brightness": 100,
+  "onOff": 0,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "colorTemperature": 0,
+  "time": 0,
+  "createdAt": {
+    "$date": "2020-10-01T22:52:54.193Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-01T22:52:54.193Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f7deba99c8ecd3a7fdb581c"
+  },
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "onOff": 1,
+  "brightness": 100,
+  "colorTemperature": 0,
+  "timerEnabled": 0,
+  "time": 30,
+  "createdAt": {
+    "$date": "2020-10-07T16:24:09.903Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T16:24:09.903Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f7debac9c8ecd3a7fdb581d"
+  },
+  "time": 30,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "onOff": 1,
+  "brightness": 37,
+  "timerEnabled": 0,
+  "colorTemperature": 0,
+  "createdAt": {
+    "$date": "2020-10-07T16:24:12.681Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T16:24:12.681Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f7debad9c8ecd3a7fdb581e"
+  },
+  "timerEnabled": 0,
+  "time": 30,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "onOff": 1,
+  "brightness": 35,
+  "colorTemperature": 0,
+  "createdAt": {
+    "$date": "2020-10-07T16:24:13.921Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T16:24:13.921Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f7debaf9c8ecd3a7fdb581f"
+  },
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "timerEnabled": 0,
+  "time": 30,
+  "onOff": 1,
+  "colorTemperature": 63,
+  "brightness": 35,
+  "createdAt": {
+    "$date": "2020-10-07T16:24:15.615Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T16:24:15.615Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f7debb09c8ecd3a7fdb5820"
+  },
+  "timerEnabled": 0,
+  "colorTemperature": 39,
+  "time": 30,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "brightness": 35,
+  "onOff": 1,
+  "createdAt": {
+    "$date": "2020-10-07T16:24:16.965Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T16:24:16.965Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f7debb39c8ecd3a7fdb5821"
+  },
+  "colorTemperature": 39,
+  "timerEnabled": 0,
+  "onOff": 1,
+  "time": 30,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "brightness": 20,
+  "createdAt": {
+    "$date": "2020-10-07T16:24:19.725Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T16:24:19.725Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f7debcb9c8ecd3a7fdb5822"
+  },
+  "timerEnabled": 0,
+  "colorTemperature": 39,
+  "time": 30,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "brightness": 73,
+  "onOff": 1,
+  "createdAt": {
+    "$date": "2020-10-07T16:24:43.512Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T16:24:43.512Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f7debcc9c8ecd3a7fdb5823"
+  },
+  "timerEnabled": 0,
+  "colorTemperature": 39,
+  "time": 30,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "brightness": 54,
+  "onOff": 1,
+  "createdAt": {
+    "$date": "2020-10-07T16:24:44.501Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T16:24:44.501Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f7debcd9c8ecd3a7fdb5824"
+  },
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "time": 30,
+  "onOff": 1,
+  "brightness": 37,
+  "colorTemperature": 39,
+  "timerEnabled": 0,
+  "createdAt": {
+    "$date": "2020-10-07T16:24:45.988Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T16:24:45.988Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f7debcf9c8ecd3a7fdb5825"
+  },
+  "timerEnabled": 0,
+  "colorTemperature": 25,
+  "time": 30,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "brightness": 37,
+  "onOff": 1,
+  "createdAt": {
+    "$date": "2020-10-07T16:24:47.800Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T16:24:47.800Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f7dec1d9c8ecd3a7fdb5826"
+  },
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "brightness": 20,
+  "timerEnabled": 0,
+  "time": 30,
+  "onOff": 1,
+  "colorTemperature": 25,
+  "createdAt": {
+    "$date": "2020-10-07T16:26:05.733Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T16:26:05.733Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f7dec1e9c8ecd3a7fdb5827"
+  },
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "timerEnabled": 0,
+  "brightness": 20,
+  "onOff": 1,
+  "time": 30,
+  "colorTemperature": 49,
+  "createdAt": {
+    "$date": "2020-10-07T16:26:06.999Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T16:26:06.999Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f7dec1f9c8ecd3a7fdb5828"
+  },
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "timerEnabled": 0,
+  "brightness": 20,
+  "onOff": 1,
+  "time": 30,
+  "colorTemperature": 77,
+  "createdAt": {
+    "$date": "2020-10-07T16:26:07.774Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T16:26:07.774Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f7dec209c8ecd3a7fdb5829"
+  },
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "timerEnabled": 0,
+  "colorTemperature": 89,
+  "brightness": 20,
+  "time": 30,
+  "onOff": 1,
+  "createdAt": {
+    "$date": "2020-10-07T16:26:08.545Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T16:26:08.545Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f7dec219c8ecd3a7fdb582a"
+  },
+  "colorTemperature": 87,
+  "time": 30,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "timerEnabled": 0,
+  "brightness": 20,
+  "onOff": 1,
+  "createdAt": {
+    "$date": "2020-10-07T16:26:09.958Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T16:26:09.958Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f7dec569c8ecd3a7fdb582b"
+  },
+  "colorTemperature": 87,
+  "onOff": 0,
+  "time": 0,
+  "brightness": 20,
+  "timerEnabled": 0,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "createdAt": {
+    "$date": "2020-10-07T16:27:02.572Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T16:27:02.572Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f7e38409c8ecd3a7fdb582c"
+  },
+  "time": 30,
+  "timerEnabled": 0,
+  "onOff": 1,
+  "colorTemperature": 0,
+  "brightness": 100,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "createdAt": {
+    "$date": "2020-10-07T21:50:56.885Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T21:50:56.885Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f7e38419c8ecd3a7fdb582d"
+  },
+  "time": 30,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "onOff": 1,
+  "brightness": 100,
+  "timerEnabled": 1,
+  "colorTemperature": 0,
+  "createdAt": {
+    "$date": "2020-10-07T21:50:57.358Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T21:50:57.358Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f7e38479c8ecd3a7fdb582e"
+  },
+  "time": 30,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "onOff": 1,
+  "brightness": 65,
+  "timerEnabled": 1,
+  "colorTemperature": 0,
+  "createdAt": {
+    "$date": "2020-10-07T21:51:03.098Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T21:51:03.098Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f7fa28e9c8ecd3a7fdb5834"
+  },
+  "colorTemperature": 0,
+  "timerEnabled": 0,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "brightness": 100,
+  "time": 30,
+  "onOff": 1,
+  "createdAt": {
+    "$date": "2020-10-08T23:36:46.885Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-08T23:36:46.885Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f7fa28f9c8ecd3a7fdb5835"
+  },
+  "timerEnabled": 1,
+  "brightness": 100,
+  "time": 30,
+  "onOff": 1,
+  "colorTemperature": 0,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "createdAt": {
+    "$date": "2020-10-08T23:36:47.382Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-08T23:36:47.382Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f80d5cf9c8ecd3a7fdb5838"
+  },
+  "brightness": 100,
+  "time": 30,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "onOff": 1,
+  "timerEnabled": 0,
+  "colorTemperature": 0,
+  "createdAt": {
+    "$date": "2020-10-09T21:27:43.234Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-09T21:27:43.234Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f80d5d09c8ecd3a7fdb5839"
+  },
+  "onOff": 1,
+  "brightness": 100,
+  "time": 30,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "timerEnabled": 1,
+  "colorTemperature": 0,
+  "createdAt": {
+    "$date": "2020-10-09T21:27:44.326Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-09T21:27:44.326Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f80e8f19c8ecd3a7fdb583b"
+  },
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "timerEnabled": 0,
+  "brightness": 100,
+  "time": 30,
+  "onOff": 1,
+  "colorTemperature": 0,
+  "createdAt": {
+    "$date": "2020-10-09T22:49:21.572Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-09T22:49:21.572Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f80e8f19c8ecd3a7fdb583c"
+  },
+  "onOff": 1,
+  "timerEnabled": 1,
+  "time": 30,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "colorTemperature": 0,
+  "brightness": 100,
+  "createdAt": {
+    "$date": "2020-10-09T22:49:21.907Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-09T22:49:21.907Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f80e9069c8ecd3a7fdb583d"
+  },
+  "colorTemperature": 0,
+  "brightness": 100,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "onOff": 1,
+  "timerEnabled": 0,
+  "time": 0,
+  "createdAt": {
+    "$date": "2020-10-09T22:49:42.146Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-09T22:49:42.146Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f80e9069c8ecd3a7fdb583e"
+  },
+  "colorTemperature": 0,
+  "brightness": 100,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "onOff": 0,
+  "timerEnabled": 0,
+  "time": 0,
+  "createdAt": {
+    "$date": "2020-10-09T22:49:42.533Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-09T22:49:42.533Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f84d8b39c8ecd3a7fdb5842"
+  },
+  "timerEnabled": 0,
+  "colorTemperature": 0,
+  "onOff": 1,
+  "time": 30,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "brightness": 100,
+  "createdAt": {
+    "$date": "2020-10-12T22:29:07.133Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-12T22:29:07.133Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f84d8b39c8ecd3a7fdb5843"
+  },
+  "timerEnabled": 1,
+  "colorTemperature": 0,
+  "onOff": 1,
+  "time": 30,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "brightness": 100,
+  "createdAt": {
+    "$date": "2020-10-12T22:29:07.476Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-12T22:29:07.476Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f8624729c8ecd3a7fdb5845"
+  },
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "onOff": 1,
+  "colorTemperature": 0,
+  "timerEnabled": 0,
+  "brightness": 100,
+  "time": 30,
+  "createdAt": {
+    "$date": "2020-10-13T22:04:34.719Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-13T22:04:34.719Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f8624729c8ecd3a7fdb5846"
+  },
+  "onOff": 1,
+  "timerEnabled": 1,
+  "brightness": 100,
+  "colorTemperature": 0,
+  "time": 30,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "createdAt": {
+    "$date": "2020-10-13T22:04:34.924Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-13T22:04:34.924Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f87739f9c8ecd3a7fdb5848"
+  },
+  "colorTemperature": 0,
+  "brightness": 100,
+  "onOff": 1,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "timerEnabled": 0,
+  "time": 30,
+  "createdAt": {
+    "$date": "2020-10-14T21:54:39.363Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-14T21:54:39.363Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f87739f9c8ecd3a7fdb5849"
+  },
+  "brightness": 100,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "time": 30,
+  "onOff": 1,
+  "colorTemperature": 0,
+  "timerEnabled": 1,
+  "createdAt": {
+    "$date": "2020-10-14T21:54:39.760Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-14T21:54:39.760Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f88c8ad9c8ecd3a7fdb584b"
+  },
+  "time": 30,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "colorTemperature": 0,
+  "brightness": 100,
+  "timerEnabled": 0,
+  "onOff": 1,
+  "createdAt": {
+    "$date": "2020-10-15T22:09:49.005Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-15T22:09:49.005Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f88c8ad9c8ecd3a7fdb584c"
+  },
+  "time": 30,
+  "brightness": 100,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "onOff": 1,
+  "colorTemperature": 0,
+  "timerEnabled": 1,
+  "createdAt": {
+    "$date": "2020-10-15T22:09:49.313Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-15T22:09:49.313Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f8a10f49c8ecd3a7fdb584e"
+  },
+  "colorTemperature": 0,
+  "brightness": 100,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "timerEnabled": 0,
+  "time": 30,
+  "onOff": 1,
+  "createdAt": {
+    "$date": "2020-10-16T21:30:28.523Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-16T21:30:28.523Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f8a10f49c8ecd3a7fdb584f"
+  },
+  "timerEnabled": 1,
+  "onOff": 1,
+  "time": 30,
+  "colorTemperature": 0,
+  "brightness": 100,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "createdAt": {
+    "$date": "2020-10-16T21:30:28.776Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-16T21:30:28.776Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f8a14879c8ecd3a7fdb5850"
+  },
+  "onOff": 1,
+  "timerEnabled": 0,
+  "time": 0,
+  "colorTemperature": 0,
+  "brightness": 100,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "createdAt": {
+    "$date": "2020-10-16T21:45:43.259Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-16T21:45:43.259Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f8a14879c8ecd3a7fdb5851"
+  },
+  "onOff": 0,
+  "timerEnabled": 0,
+  "time": 0,
+  "colorTemperature": 0,
+  "brightness": 100,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "createdAt": {
+    "$date": "2020-10-16T21:45:43.673Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-16T21:45:43.673Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f8a148d9c8ecd3a7fdb5852"
+  },
+  "timerEnabled": 0,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "onOff": 0,
+  "colorTemperature": 0,
+  "brightness": 100,
+  "time": 0,
+  "createdAt": {
+    "$date": "2020-10-16T21:45:49.403Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-16T21:45:49.403Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f8a176e9c8ecd3a7fdb5853"
+  },
+  "time": 30,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "colorTemperature": 0,
+  "onOff": 1,
+  "brightness": 100,
+  "timerEnabled": 0,
+  "createdAt": {
+    "$date": "2020-10-16T21:58:06.691Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-16T21:58:06.691Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f8a176f9c8ecd3a7fdb5854"
+  },
+  "brightness": 100,
+  "timerEnabled": 1,
+  "onOff": 1,
+  "colorTemperature": 0,
+  "time": 30,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "createdAt": {
+    "$date": "2020-10-16T21:58:07.590Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-16T21:58:07.590Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f8a17729c8ecd3a7fdb5855"
+  },
+  "brightness": 100,
+  "timerEnabled": 1,
+  "colorTemperature": 0,
+  "time": 30,
+  "onOff": 0,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "createdAt": {
+    "$date": "2020-10-16T21:58:10.384Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-16T21:58:10.384Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f8a17729c8ecd3a7fdb5856"
+  },
+  "timerEnabled": 1,
+  "onOff": 1,
+  "colorTemperature": 0,
+  "time": 15,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "brightness": 100,
+  "createdAt": {
+    "$date": "2020-10-16T21:58:10.582Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-16T21:58:10.582Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f8f66969c8ecd3a7fdb585c"
+  },
+  "onOff": 1,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "time": 30,
+  "brightness": 100,
+  "colorTemperature": 0,
+  "timerEnabled": 0,
+  "createdAt": {
+    "$date": "2020-10-20T22:37:10.979Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-20T22:37:10.979Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f8f66979c8ecd3a7fdb585d"
+  },
+  "timerEnabled": 1,
+  "time": 30,
+  "colorTemperature": 0,
+  "brightness": 100,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "onOff": 1,
+  "createdAt": {
+    "$date": "2020-10-20T22:37:11.110Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-20T22:37:11.110Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f90affe9c8ecd3a7fdb585f"
+  },
+  "time": 30,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "timerEnabled": 0,
+  "brightness": 100,
+  "colorTemperature": 0,
+  "onOff": 1,
+  "createdAt": {
+    "$date": "2020-10-21T22:02:38.851Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-21T22:02:38.851Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f90afff9c8ecd3a7fdb5860"
+  },
+  "timerEnabled": 1,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "onOff": 1,
+  "time": 30,
+  "brightness": 100,
+  "colorTemperature": 0,
+  "createdAt": {
+    "$date": "2020-10-21T22:02:39.976Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-21T22:02:39.976Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f92142c9c8ecd3a7fdb5862"
+  },
+  "onOff": 1,
+  "brightness": 100,
+  "timerEnabled": 0,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "colorTemperature": 0,
+  "time": 30,
+  "createdAt": {
+    "$date": "2020-10-22T23:22:20.149Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-22T23:22:20.149Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f92142c9c8ecd3a7fdb5863"
+  },
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "timerEnabled": 1,
+  "onOff": 1,
+  "colorTemperature": 0,
+  "brightness": 100,
+  "time": 30,
+  "createdAt": {
+    "$date": "2020-10-22T23:22:20.419Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-22T23:22:20.419Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f935c159c8ecd3a7fdb5865"
+  },
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "colorTemperature": 0,
+  "time": 30,
+  "onOff": 1,
+  "brightness": 100,
+  "timerEnabled": 0,
+  "createdAt": {
+    "$date": "2020-10-23T22:41:25.022Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-23T22:41:25.022Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f935c159c8ecd3a7fdb5866"
+  },
+  "colorTemperature": 0,
+  "brightness": 100,
+  "timerEnabled": 1,
+  "onOff": 1,
+  "time": 30,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "createdAt": {
+    "$date": "2020-10-23T22:41:25.379Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-23T22:41:25.379Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f9749659c8ecd3a7fdb5869"
+  },
+  "onOff": 1,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "time": 30,
+  "timerEnabled": 0,
+  "colorTemperature": 0,
+  "brightness": 100,
+  "createdAt": {
+    "$date": "2020-10-26T22:10:45.097Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-26T22:10:45.097Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f9749659c8ecd3a7fdb586a"
+  },
+  "timerEnabled": 1,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "onOff": 1,
+  "colorTemperature": 0,
+  "brightness": 100,
+  "time": 30,
+  "createdAt": {
+    "$date": "2020-10-26T22:10:45.301Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-26T22:10:45.301Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f9898db9c8ecd3a7fdb586c"
+  },
+  "onOff": 1,
+  "colorTemperature": 0,
+  "timerEnabled": 0,
+  "time": 30,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "brightness": 100,
+  "createdAt": {
+    "$date": "2020-10-27T22:02:03.384Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-27T22:02:03.384Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f9b5a339c8ecd3a7fdb586e"
+  },
+  "brightness": 100,
+  "onOff": 1,
+  "timerEnabled": 0,
+  "colorTemperature": 0,
+  "time": 30,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "createdAt": {
+    "$date": "2020-10-30T00:11:31.723Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-30T00:11:31.723Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f9b5a369c8ecd3a7fdb586f"
+  },
+  "time": 30,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "brightness": 100,
+  "timerEnabled": 0,
+  "onOff": 1,
+  "colorTemperature": 0,
+  "createdAt": {
+    "$date": "2020-10-30T00:11:34.901Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-30T00:11:34.901Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f9b5a379c8ecd3a7fdb5870"
+  },
+  "colorTemperature": 0,
+  "brightness": 100,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "timerEnabled": 1,
+  "time": 30,
+  "onOff": 1,
+  "createdAt": {
+    "$date": "2020-10-30T00:11:35.449Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-30T00:11:35.449Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f9ca06d9c8ecd3a7fdb5872"
+  },
+  "colorTemperature": 0,
+  "brightness": 100,
+  "time": 30,
+  "onOff": 1,
+  "timerEnabled": 0,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "createdAt": {
+    "$date": "2020-10-30T23:23:25.789Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-30T23:23:25.789Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f9ca06e9c8ecd3a7fdb5873"
+  },
+  "colorTemperature": 0,
+  "onOff": 1,
+  "brightness": 100,
+  "time": 30,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "timerEnabled": 1,
+  "createdAt": {
+    "$date": "2020-10-30T23:23:26.151Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-30T23:23:26.151Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fa090e79c8ecd3a7fdb5895"
+  },
+  "onOff": 1,
+  "brightness": 100,
+  "timerEnabled": 0,
+  "time": 30,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "colorTemperature": 0,
+  "createdAt": {
+    "$date": "2020-11-02T23:06:15.264Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-02T23:06:15.264Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fa090e79c8ecd3a7fdb5896"
+  },
+  "time": 30,
+  "colorTemperature": 0,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "onOff": 1,
+  "timerEnabled": 1,
+  "brightness": 100,
+  "createdAt": {
+    "$date": "2020-11-02T23:06:15.585Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-02T23:06:15.585Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fa1e0509c8ecd3a7fdb58ab"
+  },
+  "colorTemperature": 0,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "onOff": 1,
+  "brightness": 100,
+  "timerEnabled": 0,
+  "time": 30,
+  "createdAt": {
+    "$date": "2020-11-03T22:57:20.392Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-03T22:57:20.392Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fa1e0509c8ecd3a7fdb58ac"
+  },
+  "colorTemperature": 0,
+  "onOff": 1,
+  "timerEnabled": 1,
+  "time": 30,
+  "brightness": 100,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "createdAt": {
+    "$date": "2020-11-03T22:57:20.701Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-03T22:57:20.701Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fa339359c8ecd3a7fdb5908"
+  },
+  "brightness": 100,
+  "time": 30,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "onOff": 1,
+  "timerEnabled": 0,
+  "colorTemperature": 0,
+  "createdAt": {
+    "$date": "2020-11-04T23:28:53.196Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-04T23:28:53.196Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fa339359c8ecd3a7fdb5909"
+  },
+  "timerEnabled": 1,
+  "onOff": 1,
+  "brightness": 100,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "time": 30,
+  "colorTemperature": 0,
+  "createdAt": {
+    "$date": "2020-11-04T23:28:53.614Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-04T23:28:53.614Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fa48c669c8ecd3a7fdb5916"
+  },
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "onOff": 1,
+  "colorTemperature": 0,
+  "brightness": 100,
+  "timerEnabled": 0,
+  "time": 30,
+  "createdAt": {
+    "$date": "2020-11-05T23:36:06.640Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-05T23:36:06.640Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fa48c679c8ecd3a7fdb5917"
+  },
+  "onOff": 1,
+  "time": 30,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "brightness": 100,
+  "colorTemperature": 0,
+  "timerEnabled": 1,
+  "createdAt": {
+    "$date": "2020-11-05T23:36:07.037Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-05T23:36:07.037Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fa5df9e9c8ecd3a7fdb591d"
+  },
+  "time": 30,
+  "onOff": 1,
+  "brightness": 100,
+  "colorTemperature": 0,
+  "timerEnabled": 0,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "createdAt": {
+    "$date": "2020-11-06T23:43:26.536Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-06T23:43:26.536Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fa5df9f9c8ecd3a7fdb591e"
+  },
+  "colorTemperature": 0,
+  "time": 30,
+  "onOff": 1,
+  "brightness": 100,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "timerEnabled": 1,
+  "createdAt": {
+    "$date": "2020-11-06T23:43:27.445Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-06T23:43:27.445Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fa9cfd49c8ecd3a7fdb592a"
+  },
+  "brightness": 100,
+  "timerEnabled": 1,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "onOff": 1,
+  "colorTemperature": 0,
+  "time": 30,
+  "createdAt": {
+    "$date": "2020-11-09T23:25:08.786Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-09T23:25:08.786Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fab1be79c8ecd3a7fdb592c"
+  },
+  "timerEnabled": 1,
+  "time": 30,
+  "onOff": 1,
+  "brightness": 100,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "colorTemperature": 0,
+  "createdAt": {
+    "$date": "2020-11-10T23:01:59.200Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-10T23:01:59.200Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fab1bf39c8ecd3a7fdb592d"
+  },
+  "onOff": 0,
+  "colorTemperature": 0,
+  "brightness": 100,
+  "timerEnabled": 0,
+  "time": 0,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "createdAt": {
+    "$date": "2020-11-10T23:02:11.789Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-10T23:02:11.789Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fab1bf49c8ecd3a7fdb592e"
+  },
+  "time": 0,
+  "colorTemperature": 0,
+  "timerEnabled": 0,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "brightness": 100,
+  "onOff": 1,
+  "createdAt": {
+    "$date": "2020-11-10T23:02:12.530Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-10T23:02:12.530Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fab1bf49c8ecd3a7fdb592f"
+  },
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "timerEnabled": 1,
+  "time": 30,
+  "colorTemperature": 0,
+  "brightness": 100,
+  "onOff": 1,
+  "createdAt": {
+    "$date": "2020-11-10T23:02:12.989Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-10T23:02:12.989Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fac63d89c8ecd3a7fdb5934"
+  },
+  "brightness": 100,
+  "onOff": 1,
+  "timerEnabled": 0,
+  "time": 30,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "colorTemperature": 0,
+  "createdAt": {
+    "$date": "2020-11-11T22:21:12.531Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-11T22:21:12.531Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fac63d99c8ecd3a7fdb5935"
+  },
+  "onOff": 1,
+  "colorTemperature": 0,
+  "brightness": 100,
+  "time": 30,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "timerEnabled": 1,
+  "createdAt": {
+    "$date": "2020-11-11T22:21:13.211Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-11T22:21:13.211Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fadc2fa9c8ecd3a7fdb5938"
+  },
+  "timerEnabled": 0,
+  "colorTemperature": 0,
+  "onOff": 1,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "time": 30,
+  "brightness": 100,
+  "createdAt": {
+    "$date": "2020-11-12T23:19:22.041Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-12T23:19:22.041Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fadc2fa9c8ecd3a7fdb5939"
+  },
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "colorTemperature": 0,
+  "timerEnabled": 1,
+  "brightness": 100,
+  "time": 30,
+  "onOff": 1,
+  "createdAt": {
+    "$date": "2020-11-12T23:19:22.306Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-12T23:19:22.306Z"
+  }
+},{
+  "_id": {
+    "$oid": "5faf0a639c8ecd3a7fdb5944"
+  },
+  "brightness": 100,
+  "onOff": 1,
+  "timerEnabled": 0,
+  "time": 30,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "colorTemperature": 0,
+  "createdAt": {
+    "$date": "2020-11-13T22:36:19.226Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-13T22:36:19.226Z"
+  }
+},{
+  "_id": {
+    "$oid": "5faf0a639c8ecd3a7fdb5945"
+  },
+  "colorTemperature": 0,
+  "timerEnabled": 1,
+  "onOff": 1,
+  "time": 30,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "brightness": 100,
+  "createdAt": {
+    "$date": "2020-11-13T22:36:19.680Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-13T22:36:19.680Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fb44fb79c8ecd3a7fdb5997"
+  },
+  "brightness": 100,
+  "onOff": 1,
+  "timerEnabled": 0,
+  "time": 30,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "colorTemperature": 0,
+  "createdAt": {
+    "$date": "2020-11-17T22:33:27.681Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-17T22:33:27.681Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fb44fb89c8ecd3a7fdb5998"
+  },
+  "time": 30,
+  "onOff": 1,
+  "colorTemperature": 0,
+  "brightness": 100,
+  "timerEnabled": 1,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "createdAt": {
+    "$date": "2020-11-17T22:33:28.097Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-17T22:33:28.097Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fb59e6e9c8ecd3a7fdb59a2"
+  },
+  "colorTemperature": 0,
+  "brightness": 100,
+  "onOff": 1,
+  "timerEnabled": 0,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "time": 30,
+  "createdAt": {
+    "$date": "2020-11-18T22:21:34.939Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-18T22:21:34.939Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fb59e6f9c8ecd3a7fdb59a3"
+  },
+  "timerEnabled": 1,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "onOff": 1,
+  "colorTemperature": 0,
+  "time": 30,
+  "brightness": 100,
+  "createdAt": {
+    "$date": "2020-11-18T22:21:35.309Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-18T22:21:35.309Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fb6f8fc9c8ecd3a7fdb59b5"
+  },
+  "time": 30,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "brightness": 100,
+  "colorTemperature": 0,
+  "onOff": 1,
+  "timerEnabled": 0,
+  "createdAt": {
+    "$date": "2020-11-19T23:00:12.447Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-19T23:00:12.447Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fb6f8fc9c8ecd3a7fdb59b6"
+  },
+  "time": 30,
+  "timerEnabled": 1,
+  "brightness": 100,
+  "onOff": 1,
+  "colorTemperature": 0,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "createdAt": {
+    "$date": "2020-11-19T23:00:13.001Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-19T23:00:13.001Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fb843f89c8ecd3a7fdb59c3"
+  },
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "timerEnabled": 0,
+  "colorTemperature": 0,
+  "time": 30,
+  "onOff": 1,
+  "brightness": 100,
+  "createdAt": {
+    "$date": "2020-11-20T22:32:24.623Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-20T22:32:24.623Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fb843f89c8ecd3a7fdb59c4"
+  },
+  "colorTemperature": 0,
+  "time": 30,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "brightness": 100,
+  "onOff": 1,
+  "timerEnabled": 1,
+  "createdAt": {
+    "$date": "2020-11-20T22:32:24.971Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-20T22:32:24.971Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fbed7a19c8ecd3a7fdb5a19"
+  },
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "onOff": 1,
+  "brightness": 100,
+  "colorTemperature": 0,
+  "time": 30,
+  "timerEnabled": 0,
+  "createdAt": {
+    "$date": "2020-11-25T22:16:01.473Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-25T22:16:01.473Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fbed7a19c8ecd3a7fdb5a1a"
+  },
+  "onOff": 1,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "colorTemperature": 0,
+  "brightness": 100,
+  "timerEnabled": 1,
+  "time": 30,
+  "createdAt": {
+    "$date": "2020-11-25T22:16:01.977Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-25T22:16:01.977Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc5805d9c8ecd3a7fdb5a5c"
+  },
+  "colorTemperature": 0,
+  "time": 30,
+  "brightness": 100,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "timerEnabled": 0,
+  "onOff": 1,
+  "createdAt": {
+    "$date": "2020-11-30T23:29:33.050Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-30T23:29:33.050Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc5805d9c8ecd3a7fdb5a5d"
+  },
+  "colorTemperature": 0,
+  "onOff": 1,
+  "timerEnabled": 1,
+  "time": 30,
+  "brightness": 100,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "createdAt": {
+    "$date": "2020-11-30T23:29:33.474Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-30T23:29:33.474Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc6cf659c8ecd3a7fdb5a6f"
+  },
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "timerEnabled": 0,
+  "onOff": 1,
+  "brightness": 100,
+  "time": 30,
+  "colorTemperature": 0,
+  "createdAt": {
+    "$date": "2020-12-01T23:19:01.350Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-01T23:19:01.350Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc6cf659c8ecd3a7fdb5a70"
+  },
+  "onOff": 1,
+  "brightness": 100,
+  "colorTemperature": 0,
+  "time": 30,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "timerEnabled": 1,
+  "createdAt": {
+    "$date": "2020-12-01T23:19:01.697Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-01T23:19:01.697Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc8163e9c8ecd3a7fdb5a7c"
+  },
+  "onOff": 1,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "timerEnabled": 0,
+  "colorTemperature": 0,
+  "brightness": 100,
+  "time": 30,
+  "createdAt": {
+    "$date": "2020-12-02T22:33:34.025Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-02T22:33:34.025Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc8163e9c8ecd3a7fdb5a7d"
+  },
+  "onOff": 1,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "colorTemperature": 0,
+  "time": 30,
+  "brightness": 100,
+  "timerEnabled": 1,
+  "createdAt": {
+    "$date": "2020-12-02T22:33:34.574Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-02T22:33:34.574Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc976869c8ecd3a7fdb5a9c"
+  },
+  "time": 30,
+  "colorTemperature": 0,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "timerEnabled": 0,
+  "onOff": 1,
+  "brightness": 100,
+  "createdAt": {
+    "$date": "2020-12-03T23:36:38.917Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-03T23:36:38.917Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc976879c8ecd3a7fdb5a9d"
+  },
+  "colorTemperature": 0,
+  "timerEnabled": 1,
+  "time": 30,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "brightness": 100,
+  "onOff": 1,
+  "createdAt": {
+    "$date": "2020-12-03T23:36:39.343Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-03T23:36:39.343Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fceb88b9c8ecd3a7fdb5adc"
+  },
+  "brightness": 100,
+  "onOff": 1,
+  "timerEnabled": 0,
+  "time": 30,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "colorTemperature": 0,
+  "createdAt": {
+    "$date": "2020-12-07T23:19:39.627Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-07T23:19:39.627Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fceb88b9c8ecd3a7fdb5add"
+  },
+  "brightness": 100,
+  "onOff": 1,
+  "timerEnabled": 1,
+  "time": 30,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "colorTemperature": 0,
+  "createdAt": {
+    "$date": "2020-12-07T23:19:39.937Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-07T23:19:39.937Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fd005f59c8ecd3a7fdb5b03"
+  },
+  "timerEnabled": 0,
+  "brightness": 100,
+  "time": 30,
+  "colorTemperature": 0,
+  "onOff": 1,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "createdAt": {
+    "$date": "2020-12-08T23:02:13.341Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-08T23:02:13.341Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fd005f59c8ecd3a7fdb5b04"
+  },
+  "brightness": 100,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "time": 30,
+  "timerEnabled": 1,
+  "onOff": 1,
+  "colorTemperature": 0,
+  "createdAt": {
+    "$date": "2020-12-08T23:02:13.844Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-08T23:02:13.844Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fd150289c8ecd3a7fdb5b16"
+  },
+  "timerEnabled": 0,
+  "time": 30,
+  "onOff": 1,
+  "brightness": 100,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "colorTemperature": 0,
+  "createdAt": {
+    "$date": "2020-12-09T22:31:04.515Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-09T22:31:04.515Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fd150299c8ecd3a7fdb5b17"
+  },
+  "time": 30,
+  "brightness": 100,
+  "colorTemperature": 0,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "onOff": 1,
+  "timerEnabled": 1,
+  "createdAt": {
+    "$date": "2020-12-09T22:31:05.394Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-09T22:31:05.394Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2aa7b9c8ecd3a7fdb5b1f"
+  },
+  "colorTemperature": 0,
+  "brightness": 100,
+  "timerEnabled": 0,
+  "onOff": 1,
+  "time": 30,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "createdAt": {
+    "$date": "2020-12-10T23:08:43.248Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-10T23:08:43.248Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2aa7b9c8ecd3a7fdb5b20"
+  },
+  "colorTemperature": 0,
+  "brightness": 100,
+  "timerEnabled": 1,
+  "time": 30,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "onOff": 1,
+  "createdAt": {
+    "$date": "2020-12-10T23:08:43.697Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-10T23:08:43.697Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fd3f6b09c8ecd3a7fdb5b26"
+  },
+  "time": 30,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "colorTemperature": 0,
+  "brightness": 100,
+  "onOff": 1,
+  "timerEnabled": 0,
+  "createdAt": {
+    "$date": "2020-12-11T22:46:08.417Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T22:46:08.417Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fd3f6b09c8ecd3a7fdb5b27"
+  },
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "timerEnabled": 1,
+  "colorTemperature": 0,
+  "onOff": 1,
+  "brightness": 100,
+  "time": 30,
+  "createdAt": {
+    "$date": "2020-12-11T22:46:08.915Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T22:46:08.915Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fd7f1299c8ecd3a7fdb5b3d"
+  },
+  "time": 30,
+  "onOff": 1,
+  "timerEnabled": 0,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "colorTemperature": 0,
+  "brightness": 100,
+  "createdAt": {
+    "$date": "2020-12-14T23:11:37.984Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-14T23:11:37.984Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fd7f12a9c8ecd3a7fdb5b3e"
+  },
+  "time": 30,
+  "onOff": 1,
+  "colorTemperature": 0,
+  "brightness": 100,
+  "timerEnabled": 1,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "createdAt": {
+    "$date": "2020-12-14T23:11:38.464Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-14T23:11:38.464Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fd94b069c8ecd3a7fdb5b4b"
+  },
+  "onOff": 1,
+  "time": 30,
+  "timerEnabled": 0,
+  "colorTemperature": 0,
+  "brightness": 100,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "createdAt": {
+    "$date": "2020-12-15T23:47:18.158Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-15T23:47:18.158Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fd94b069c8ecd3a7fdb5b4c"
+  },
+  "brightness": 100,
+  "timerEnabled": 1,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "onOff": 1,
+  "colorTemperature": 0,
+  "time": 30,
+  "createdAt": {
+    "$date": "2020-12-15T23:47:18.540Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-15T23:47:18.540Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fda81d19c8ecd3a7fdb5b58"
+  },
+  "colorTemperature": 0,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "timerEnabled": 0,
+  "brightness": 100,
+  "onOff": 1,
+  "time": 30,
+  "createdAt": {
+    "$date": "2020-12-16T21:53:21.090Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-16T21:53:21.090Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fda81d29c8ecd3a7fdb5b59"
+  },
+  "onOff": 1,
+  "colorTemperature": 0,
+  "brightness": 100,
+  "timerEnabled": 1,
+  "time": 30,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "createdAt": {
+    "$date": "2020-12-16T21:53:22.025Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-16T21:53:22.025Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdbe5189c8ecd3a7fdb5b61"
+  },
+  "onOff": 1,
+  "brightness": 100,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "time": 30,
+  "colorTemperature": 0,
+  "timerEnabled": 0,
+  "createdAt": {
+    "$date": "2020-12-17T23:09:12.654Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-17T23:09:12.654Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdbe5199c8ecd3a7fdb5b62"
+  },
+  "colorTemperature": 0,
+  "brightness": 100,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "timerEnabled": 1,
+  "onOff": 1,
+  "time": 30,
+  "createdAt": {
+    "$date": "2020-12-17T23:09:13.144Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-17T23:09:13.144Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fed08ca9c8ecd3a7fdb5c0c"
+  },
+  "time": 30,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "onOff": 1,
+  "timerEnabled": 0,
+  "colorTemperature": 0,
+  "brightness": 100,
+  "createdAt": {
+    "$date": "2020-12-30T23:10:02.801Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-30T23:10:02.801Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fed08cb9c8ecd3a7fdb5c0d"
+  },
+  "colorTemperature": 0,
+  "timerEnabled": 1,
+  "onOff": 1,
+  "brightness": 100,
+  "time": 30,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "createdAt": {
+    "$date": "2020-12-30T23:10:03.284Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-30T23:10:03.284Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fed08cf9c8ecd3a7fdb5c0e"
+  },
+  "colorTemperature": 0,
+  "brightness": 70,
+  "timerEnabled": 1,
+  "onOff": 1,
+  "time": 30,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "createdAt": {
+    "$date": "2020-12-30T23:10:07.734Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-30T23:10:07.734Z"
+  }
+},{
+  "_id": {
+    "$oid": "5ff397a09c8ecd3a7fdb5c4c"
+  },
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "brightness": 100,
+  "time": 30,
+  "onOff": 1,
+  "colorTemperature": 0,
+  "timerEnabled": 0,
+  "createdAt": {
+    "$date": "2021-01-04T22:33:04.188Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-04T22:33:04.188Z"
+  }
+},{
+  "_id": {
+    "$oid": "5ff397a69c8ecd3a7fdb5c4d"
+  },
+  "time": 30,
+  "colorTemperature": 0,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "onOff": 1,
+  "brightness": 100,
+  "timerEnabled": 0,
+  "createdAt": {
+    "$date": "2021-01-04T22:33:10.703Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-04T22:33:10.703Z"
+  }
+},{
+  "_id": {
+    "$oid": "5ff397a79c8ecd3a7fdb5c4e"
+  },
+  "timerEnabled": 1,
+  "onOff": 1,
+  "brightness": 100,
+  "time": 30,
+  "colorTemperature": 0,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "createdAt": {
+    "$date": "2021-01-04T22:33:11.236Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-04T22:33:11.236Z"
+  }
+},{
+  "_id": {
+    "$oid": "5ff63ea59c8ecd3a7fdb5c62"
+  },
+  "timerEnabled": 0,
+  "onOff": 1,
+  "time": 30,
+  "brightness": 100,
+  "colorTemperature": 0,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "createdAt": {
+    "$date": "2021-01-06T22:50:13.246Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-06T22:50:13.246Z"
+  }
+},{
+  "_id": {
+    "$oid": "5ff63ea59c8ecd3a7fdb5c63"
+  },
+  "brightness": 100,
+  "timerEnabled": 1,
+  "onOff": 1,
+  "colorTemperature": 0,
+  "time": 30,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "createdAt": {
+    "$date": "2021-01-06T22:50:13.504Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-06T22:50:13.504Z"
+  }
+},{
+  "_id": {
+    "$oid": "5ff63ea99c8ecd3a7fdb5c64"
+  },
+  "brightness": 74,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "time": 30,
+  "onOff": 1,
+  "colorTemperature": 0,
+  "timerEnabled": 1,
+  "createdAt": {
+    "$date": "2021-01-06T22:50:17.357Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-06T22:50:17.357Z"
+  }
+},{
+  "_id": {
+    "$oid": "5ff63eab9c8ecd3a7fdb5c65"
+  },
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "time": 30,
+  "colorTemperature": 0,
+  "brightness": 69,
+  "onOff": 1,
+  "timerEnabled": 1,
+  "createdAt": {
+    "$date": "2021-01-06T22:50:19.361Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-06T22:50:19.361Z"
+  }
+},{
+  "_id": {
+    "$oid": "5ff795629c8ecd3a7fdb5c68"
+  },
+  "brightness": 100,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "time": 30,
+  "timerEnabled": 0,
+  "colorTemperature": 0,
+  "onOff": 1,
+  "createdAt": {
+    "$date": "2021-01-07T23:12:34.771Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-07T23:12:34.771Z"
+  }
+},{
+  "_id": {
+    "$oid": "5ff795639c8ecd3a7fdb5c69"
+  },
+  "colorTemperature": 0,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "brightness": 100,
+  "time": 30,
+  "timerEnabled": 1,
+  "onOff": 1,
+  "createdAt": {
+    "$date": "2021-01-07T23:12:35.107Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-07T23:12:35.107Z"
+  }
+},{
+  "_id": {
+    "$oid": "5ff8ecc49c8ecd3a7fdb5c78"
+  },
+  "onOff": 1,
+  "colorTemperature": 0,
+  "timerEnabled": 0,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "brightness": 100,
+  "time": 30,
+  "createdAt": {
+    "$date": "2021-01-08T23:37:40.446Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-08T23:37:40.446Z"
+  }
+},{
+  "_id": {
+    "$oid": "5ff8ecc59c8ecd3a7fdb5c79"
+  },
+  "brightness": 100,
+  "timerEnabled": 1,
+  "onOff": 1,
+  "userId": {
+    "$oid": "5f750b5b9c8ecd3a7fdb5733"
+  },
+  "time": 30,
+  "colorTemperature": 0,
+  "createdAt": {
+    "$date": "2021-01-08T23:37:41.210Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-08T23:37:41.210Z"
+  }
+}]
