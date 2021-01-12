@@ -4,27 +4,30 @@ import Button from 'lib/components/Button.js';
 
 const width = Dimensions.get('window').width
 
-export default class Sleep extends Component {
-  render() {
-    return ( 
-      <View style={styles.container}>
-        <Text style={styles.header}>
-          Use our predictive AI to determine the best times to use golden 
-          slumbr to improve your sleep
-        </Text>
-        <Text style={styles.header}>Do you want to wake up:</Text>
-        <Button
-          text='Earlier than I do now'
-        />
-        <Button
-          style={styles.button}
-          text='Later than I do now'
-          margin={30}
-        />           
-      </View>
-    )
-  }
+export default function Sleep() {
+  return ( 
+    <View style={styles.container}>
+      <Text style={styles.header}>
+        Use our predictive AI to determine the best times to use golden 
+        slumbr to improve your sleep
+      </Text>
+      <Text style={styles.header}>Do you want to wake up:</Text>
+      <Button
+        text='Earlier than I do now'
+        marginH={45}
+        marginV={0}
+        screenName='FitbitConnect'
+      />
+      <Button
+        text='Later than I do now'
+        marginH={45}
+        marginV={25}
+        screenName='FitbitConnect'
+      />           
+    </View>
+  )
 }
+
 
 const styles = StyleSheet.create({
   container: {
@@ -35,10 +38,8 @@ const styles = StyleSheet.create({
   },
   header: {
     fontSize: 18,
-    margin: 30,
+    marginHorizontal: 45,
+    marginVertical: 30,
+    textAlign: 'left'
   },
-  button: {
-    fontSize: 30,
-    margin: 50,
-  }
 })

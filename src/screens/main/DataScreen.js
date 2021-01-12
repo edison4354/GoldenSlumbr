@@ -7,7 +7,7 @@ export default class Data extends Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text style={styles.header}>
+        <Text style={styles.main_header}>
           Based on the data, you should use golden slumbr at around 10 AM
         </Text>
         <Text style={styles.header}>
@@ -28,19 +28,24 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'flex-start',
     backgroundColor: '#ffffff',
-    marginTop: 75,
-    
   },
   header: {
     fontSize: 18,
     textAlign: 'left',
     marginHorizontal: 60,
-    marginVertical: 10,
+    marginVertical: 15,
+  },
+  main_header: {
+    fontSize: 18,
+    textAlign: 'left',
+    marginHorizontal: 60,
+    marginVertical: 15,
+    marginTop: 100,
   },
   image: {
     width: 290,
-    height: 200,
-    marginVertical: 20,
+    height: 250,
+    marginVertical: 10,
     marginHorizontal: 60,
   }
 })

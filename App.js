@@ -1,74 +1,80 @@
-import React, { Component } from 'react';
-import { StyleSheet, Text, View, Linking } from 'react-native';
-import qs from 'qs';
-import config from './config.js';
-function OAuth(client_id, cb) {
- Linking.addEventListener('url', handleUrl);
- function handleUrl(event) {
-  console.log(event.url);
-  Linking.removeEventListener('url', handleUrl);
-  const [, query_string] = event.url.match(/\#(.*)/);
-  console.log(query_string);
-  const query = qs.parse(query_string);
-  console.log(`query: ${JSON.stringify(query)}`);
-  cb(query.access_token);
-}
-const oauthurl = `https://www.fitbit.com/oauth2/authorize?${qs.stringify({
- client_id,
- response_type: 'token',
- scope: 'heartrate activity activity profile sleep',
- redirect_uri: 'fitbit://fit',
- expires_in: '31536000',
-})}`;
-console.log(oauthurl);
-Linking.openURL(oauthurl).catch(err => console.error('Error processing linking', err));
-}
+// In App.js in a new project
 
+import React from 'react';
+import { View, Text } from 'react-native';
+import { NavigationContainer } from '@react-navigation/native';
+import { createStackNavigator } from '@react-navigation/stack';
+import Login from './src/screens/login/LoginScreen.js'
+import SignUp from './src/screens/login/SignUpScreen.js'
+import Sleep from './src/screens/getting_started/SleepScreen.js'
+import FitbitConnect from './src/screens/getting_started/ConnectionScreen.js'
+import FitbitIntegration from './src/screens/getting_started/FitbitIntegration.js'
+import Data from './src/screens/main/DataScreen.js'
 
-function getData(access_token) {
-fetch('https://api.fitbit.com/1.2/user/-/sleep/list.json?beforeDate=2020-11-27&sort=desc&offset=0&limit=1', {
-method: 'GET',
-headers: {
- Authorization: `Bearer ${access_token}`,
-},
-// body: `root=auto&path=${Math.random()}`
-})
-.then(res => res.json())
-.then(res => {
-console.log(`res: ${JSON.stringify(res)}`);
-})
-.catch(err => {
-  console.error('Error: ', err);
-});
-}
-export default class App extends Component {
-componentDidMount() {
-    OAuth(config.client_id, getData);
- }
- 
- render() {
+function LoginScreen() {
   return (
-  <View style={styles.container}>
-    <Text style={styles.welcome}>
-     Welcome to Fitbit Integration
-    </Text>
-  </View>
+    <Login/>
   );
- }
 }
 
+function DetailsScreen() {
+  return (
+    <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center' }}>
+      <Text>Details Screen</Text>
+    </View>
+  );
+}
 
-const styles = StyleSheet.create({
-container: {
- flex: 1,
- justifyContent: 'center',
- alignItems: 'center',
- backgroundColor: '#00a8b5',
-},
-welcome: {
- fontSize: 25,
- textAlign: 'center',
- color: '#fff',
- margin: 10,
-},
-});
+function SignUpScreen() {
+  return (
+    <SignUp/>
+  );
+}
+
+function SleepScreen() {
+  return (
+    <Sleep/>
+  );
+}
+
+function FitbitConnectScreen() {
+  return (
+    <FitbitConnect/>
+  );
+}
+
+function FitbitIntegrationScreen() {
+  return (
+    <FitbitIntegration/>
+  );
+}
+
+function DataScreen() {
+  return (
+    <Data/>
+  );
+}
+
+const Stack = createStackNavigator();
+
+function App() {
+  return (
+    <NavigationContainer>
+      <Stack.Navigator 
+      screenOptions={{
+        headerShown: false
+      }}
+      initialRouteName="Login">
+        <Stack.Screen name="Login" component={LoginScreen} />
+        <Stack.Screen name="SignUp" component={SignUpScreen} />
+        <Stack.Screen name="Details" component={DetailsScreen} />
+        <Stack.Screen name="Sleep" component={SleepScreen} />
+        <Stack.Screen name="FitbitConnect" component={FitbitConnectScreen} />
+        <Stack.Screen name="FitbitIntegration" component={FitbitIntegrationScreen} />
+        <Stack.Screen name="Data" component={DataScreen} />
+      </Stack.Navigator>
+    </NavigationContainer>
+  );
+}
+
+export default App;
